@@ -362,6 +362,7 @@ img {
 .clients-card:focus {
     border: 1px solid var(--accent-color);
     border-radius: 4px;
+    outline: none;
 }
 
 .clients-icon {
